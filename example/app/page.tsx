@@ -9,7 +9,7 @@ import {
   RetroButton,
   RetroCard,
   RetroWindow,
-} from "yashbgdi/y2k-social-ui";
+} from "y2k-social-ui";
 
 const themes = ["myspace", "cyber", "chrome"] as const;
 type Theme = (typeof themes)[number];

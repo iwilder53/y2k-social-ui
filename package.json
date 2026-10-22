@@ -1,6 +1,6 @@
 {
-  "name": "yashbgdi/y2k-social-ui",
-  "version": "0.1.0",
+  "name": "y2k-social-ui",
+  "version": "0.1.1",
   "description": "A plug-and-play Y2K and MySpace-inspired UI kit for React and Next.js with Tailwind CSS v4.",
   "license": "MIT",
   "type": "module",
@@ -36,5 +36,8 @@
     "@types/react-dom": "^19.0.0",
     "tsup": "^8.3.0",
     "typescript": "^5.7.0"
+  },
+  "dependencies": {
+    "y2k-social-ui": "^0.1.0"
   }
 }
